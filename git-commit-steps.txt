@@ -1,0 +1,40 @@
+    4  git init
+    5  vi .git/config 
+    6  git add --all
+    7  git status
+    8  git remote add origin https://github.com/melaninqueensunited/melaninqueensunited.github.io.git
+    9  git push -f origin master
+   10  git config --global
+   11  git config --list
+   12  git remote set-url origin git@github.com:melaninqueensunited/melaninqueensunited.github.io.git
+   13  git push -f origin master
+   17  git add --all
+   18  git commit -am "test"
+   19  git push -f origin master
+   20  sudo git push -f origin master
+   22  ssh -vT git@github.com
+   24  ssh -T git@github.com
+   28  ssh -T git@github.com
+   29  git push -f origin master
+   30  git add .
+   33  git add .
+   34  git status
+   37  git add .
+   38  git status
+   39  git commit -am "added html5up big picture template"
+   40  git push -u origin master
+   43  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   51  man git
+   71  cd melaninqueensunited.github.io/
+   93  cd melaninqueensunited/melaninqueensunited.github.io/
+   94  git status
+   95  git add .
+   96  git status
+   97  git commit
+   98  git commit -am "test"
+   99  git push orgin master
+  100  git push origin master
+  101  touch git-commit-steps
+  103  rm git-commit-steps 
+  104  touch git-commit-steps.txt
+  105  history | grep git >> git-commit-steps.txt 
